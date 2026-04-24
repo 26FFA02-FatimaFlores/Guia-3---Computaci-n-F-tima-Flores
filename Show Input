@@ -1,0 +1,18 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package showinputt;
+
+/**
+ *
+ * @author olf16
+ */
+
+import javax.swing.JOptionPane;
+
+public class ShowInputt {
+        public static void main(String[] args) {
+            JOptionPane.showInputDialog("Palabra de paso:");
+        }
+}
